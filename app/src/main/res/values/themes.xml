@@ -4,36 +4,30 @@
 
     <style name="Theme.UPIVoiceAnnouncer" parent="Theme.Material3.DayNight.NoActionBar">
 
-        <!-- Primary colors -->
         <item name="colorPrimary">@color/md_theme_light_primary</item>
         <item name="colorOnPrimary">@color/md_theme_light_on_primary</item>
 
-        <!-- Secondary colors -->
         <item name="colorSecondary">@color/md_theme_light_secondary</item>
         <item name="colorOnSecondary">@color/md_theme_light_on_secondary</item>
 
-        <!-- Tertiary colors -->
         <item name="colorTertiary">@color/md_theme_light_tertiary</item>
         <item name="colorOnTertiary">@color/md_theme_light_on_tertiary</item>
 
-        <!-- Background -->
         <item name="android:colorBackground">@color/md_theme_light_background</item>
         <item name="colorOnBackground">@color/md_theme_light_on_background</item>
 
-        <!-- Surface -->
         <item name="colorSurface">@color/md_theme_light_surface</item>
         <item name="colorOnSurface">@color/md_theme_light_on_surface</item>
+
         <item name="colorSurfaceVariant">@color/md_theme_light_surface_variant</item>
         <item name="colorOnSurfaceVariant">@color/md_theme_light_on_surface_variant</item>
 
-        <!-- Error -->
         <item name="colorError">@color/md_theme_light_error</item>
         <item name="colorOnError">@color/md_theme_light_on_error</item>
 
-        <!-- Status bar -->
         <item name="android:statusBarColor">@color/md_theme_light_primary</item>
         <item name="android:windowLightStatusBar">false</item>
 
     </style>
-    
+
 </resources>
